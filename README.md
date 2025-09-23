@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a passionate developer always looking for new challenges.
+I'm Aryan - a Computer Science Student at Purdue University. 
+I'm here to write the code that will eventually automate my own job!
 
 ---
 
@@ -20,4 +21,4 @@ I'm a passionate developer always looking for new challenges.
 
 ### Let's Connect!
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aryanjumani/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/aryanjumani/)
