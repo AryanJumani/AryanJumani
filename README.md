@@ -13,6 +13,12 @@ I'm here to write the code that will eventually automate my own job!
 
 ---
 
+### GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AryanJumani&theme=darkhub)
+
+---
+
 ### Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanJumani&layout=compact&theme=nord)
@@ -21,4 +27,4 @@ I'm here to write the code that will eventually automate my own job!
 
 ### Let's Connect!
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/aryanjumani/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://www.linkedin.com/in/aryanjumani/)
